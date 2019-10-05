@@ -1,0 +1,15 @@
+# Explanation of modified points (required)
+- What you have done.
+  I added a new student Quan with 4 scores 100 100 100 100 and also changed the number of students to 16.
+- The results of `average`, `rank` etc.
+  Yamada's rank changed from 6 to 7 because Quan now ranks first.
+  "conf Yamada rank 6 -> You are right." changed to "conf Yamada rank 6 -> You are wrong." because Yamada now ranks 7.
+- The changes of `rank` of the students.
+  All the ranks of students decreased by 1 because Quan who ranks first was added.
+# Discussion (if needed)
+  
+
+# Comments (if needed)
+
+
+

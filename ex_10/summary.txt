@@ -1,0 +1,14 @@
+# Explanation of modified points (required)
+I finished 3 tasks in the TO-DO list and the result was the same as in the answer.
++ TO-DO 1: I calculated the most similar reference pattern using euclidean distance using euclidean_distance function.
++ TO-DO 2: I update the predicted label of the feature vector if a more similar reference pattern is found.
++ TO-DO 3: I established euclidean_distance function.
++ TO-DO 4: I counted the number of valid results 
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+

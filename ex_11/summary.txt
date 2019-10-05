@@ -1,0 +1,13 @@
+# Explanation of modified points (required)
+I finished 3 tasks in the TO-DO list and the result was the same as in the answer.
++ TO-DO 1: I initialized the weight randomly using frand_xorshift() function.
++ TO-DO 2: I found the most similar prototype using euclidean distance and updated min_distance.
++ TO-DO 3: I updated the weights of the winner neuron.
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+

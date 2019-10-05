@@ -1,0 +1,11 @@
+# Explanation of modified points (required)
+There were totally 5 tasks in the TO-DO list. I finished all the tasks and the results were the same as in the answer file.
+
+# Discussion (if needed)
+I learned how to implement 4 search algorithms.
+
+# Comments (if needed)
+
+
+
+

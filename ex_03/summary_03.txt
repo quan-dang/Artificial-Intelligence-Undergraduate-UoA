@@ -1,0 +1,11 @@
+# Explanation of modified points (required)
+There are 5 TO-DO tasks in total. I have finished all and the result was the same as in the answer file.
+
+# Discussion (if needed)
+This exercise helped me to learn new algorithms, i.e., calculate accumulated cost during implementing BFS and DFS search.
+
+# Comments (if needed)
+README file should be English.
+
+
+

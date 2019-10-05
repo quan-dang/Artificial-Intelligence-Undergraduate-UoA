@@ -1,0 +1,11 @@
+# Explanation of modified points (required)
+The TO-DO list in func.c consists of 6 items in total. I completed all of them and ran "make test". The result was the same as in the file answer_02.txt.
+
+# Discussion (if needed)
+I revised bfs and dfs search algorithms. The exercises are very useful for me.
+
+# Comments (if needed)
+The README.md should have an English version.
+
+
+

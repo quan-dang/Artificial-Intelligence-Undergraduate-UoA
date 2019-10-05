@@ -1,0 +1,14 @@
+# Explanation of modified points (required)
+There were four tasks in the TO-DO list. I finished all four tasks and the result was the same as in the answer file.
++ TO-DO 1: I used !x to return the not operation of x.
++ TO-DO 2: I used (x<y?x:y) to return the AND operation of x and y, the value of AND operator should be smaller boolean values.
++ TO-DO 3: I used (x>y?x:y) to return the OR operation of x and y, the value of OR operator should be bigger boolean values.
++ TO-DO 4: I used ((!x)>y?(!x):y) to return the implication operation of x and y. Because implication of x and y is simply OR operation of (not x) and y, so I apply TO-DO 1 and TO-DO 3 to produce the result.
+
+# Discussion (if needed)
+I knew how to implement truth table of some simple logical operators through the exercises.
+
+# Comments (if needed)
+
+
+

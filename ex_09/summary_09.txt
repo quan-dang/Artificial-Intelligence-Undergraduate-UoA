@@ -1,0 +1,14 @@
+# Explanation of modified points (required)
+I finished 3 TO-DO tasks in the TO-DO list and the result was the same as in the answer.
+Explanation:
++ TO-DO 1: I established the defuzzification formula.
++ TO-DO 2: I built the membership function.
++ TO-DO 3: I applied Mamdani's fuzzy inference method to compute membership values.
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+

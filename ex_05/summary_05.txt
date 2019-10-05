@@ -1,0 +1,16 @@
+# Explanation of modified points (required)
+There were totally 6 tasks in the TO-DO list. I completed all the tasks and the result was the same as in the answer file.
++ TODO 1: I added rule into the selected rules when the i-th element in the conflict set was not used.
++ TODO 2: I used compare_time_tag as FuncComparator for bubble sort.
++ TODO 3: I returned selected_rules[0] which is the newest rule.
++ TODO 4: I used compare_conditions as FuncComparator for bubble sort.
++ TODO 5: I returned selected_rules[0] which which contains many conditions.
++ TODO 6: I used rand_xorshift() to select rules randomly.
+
+# Discussion (if needed)
+I learned LEX by completing the code.
+
+# Comments (if needed)
+
+
+

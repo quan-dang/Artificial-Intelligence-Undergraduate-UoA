@@ -1,0 +1,14 @@
+# Explanation of modified points (required)
+I completed 3 tasks in the TO-DO list the the result was the same as in the answer.
++ TO-DO 1: I wrote unipolar sigmoid function (lambda = 1).
++ TO-DO 2: I created a function to calculate the inner product.
++ TO-DO 3: I calculated the error of the output layer for backpropagation.
++ TO-DO 4: I updated weight based on backpropagation.
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+
